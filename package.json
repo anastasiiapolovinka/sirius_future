@@ -1,7 +1,7 @@
 {
   "name": "sirius_future",
   "version": "0.1.0",
-  "homepage": "https://anastasiiapolovinka.github.io/sirius_future/",
+  "homepage": "https://anastasiiapolovinka.github.io/sirius_future",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.5",
