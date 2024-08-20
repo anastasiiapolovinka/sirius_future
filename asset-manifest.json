@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sirius_future/static/css/main.c2442010.css",
-    "main.js": "/sirius_future/static/js/main.da1dfdbd.js",
+    "main.js": "/sirius_future/static/js/main.fe85c198.js",
     "static/media/CirceRounded-Light.otf": "/sirius_future/static/media/CirceRounded-Light.bee4cf44694a05bdd393.otf",
     "static/media/CirceRounded-Bold.otf": "/sirius_future/static/media/CirceRounded-Bold.63f1293bc8249ff6b698.otf",
     "static/media/CirceRounded-Regular.otf": "/sirius_future/static/media/CirceRounded-Regular.401e2caac8a3ab1649df.otf",
@@ -15,10 +15,10 @@
     "index.html": "/sirius_future/index.html",
     "static/media/cross_icon.svg": "/sirius_future/static/media/cross_icon.765392b1791404af41c5.svg",
     "main.c2442010.css.map": "/sirius_future/static/css/main.c2442010.css.map",
-    "main.da1dfdbd.js.map": "/sirius_future/static/js/main.da1dfdbd.js.map"
+    "main.fe85c198.js.map": "/sirius_future/static/js/main.fe85c198.js.map"
   },
   "entrypoints": [
     "static/css/main.c2442010.css",
-    "static/js/main.da1dfdbd.js"
+    "static/js/main.fe85c198.js"
   ]
 }
