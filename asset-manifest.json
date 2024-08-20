@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sirius_future/static/css/main.c2442010.css",
+    "main.js": "/sirius_future/static/js/main.da1dfdbd.js",
+    "static/media/CirceRounded-Light.otf": "/sirius_future/static/media/CirceRounded-Light.bee4cf44694a05bdd393.otf",
+    "static/media/CirceRounded-Bold.otf": "/sirius_future/static/media/CirceRounded-Bold.63f1293bc8249ff6b698.otf",
+    "static/media/CirceRounded-Regular.otf": "/sirius_future/static/media/CirceRounded-Regular.401e2caac8a3ab1649df.otf",
+    "static/media/banner.png": "/sirius_future/static/media/banner.e51feb87c5c390dddb37.png",
+    "static/media/avatar.png": "/sirius_future/static/media/avatar.5847fe123a8f6a4f7dfc.png",
+    "static/media/gift_illustration.svg": "/sirius_future/static/media/gift_illustration.35d0214e57da9782c179.svg",
+    "static/media/eye-slash.svg": "/sirius_future/static/media/eye-slash.f2712b7096d4b071328d.svg",
+    "static/media/eye.svg": "/sirius_future/static/media/eye.6213ae43b9f741d8cb52.svg",
+    "static/media/wallet.svg": "/sirius_future/static/media/wallet.da641569c1615c20c213.svg",
+    "static/media/exit.svg": "/sirius_future/static/media/exit.65712a758914cd0e3684.svg",
+    "index.html": "/sirius_future/index.html",
+    "static/media/cross_icon.svg": "/sirius_future/static/media/cross_icon.765392b1791404af41c5.svg",
+    "main.c2442010.css.map": "/sirius_future/static/css/main.c2442010.css.map",
+    "main.da1dfdbd.js.map": "/sirius_future/static/js/main.da1dfdbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2442010.css",
+    "static/js/main.da1dfdbd.js"
+  ]
+}
